@@ -1,4 +1,4 @@
-# Reconocimiento y reconstruccion de mapas de desgaste usando machine learning
+# Alineación de estrellas para estimar la rotación de la tierra
 
 
 <img src="/portada.png" style="width:400px;" class="center">
@@ -7,9 +7,10 @@
 - Brayan Camilo Valenzuela Rincón
 
 
-**Universidad Industrial de Santander (UIS)**<br/>
-**Ingenieria de Sistemas**<br/>
-**2020**<br/>
+
+**Universidad Industrial de Santander (UIS)**
+**Ingeniería de Sistemas**
+**2020**
 
 # Introducción:
 
@@ -23,11 +24,11 @@ Este repositorio fue creado con el objetivo de hacer publico el código realizad
 
 - Homografia.
 
-- Puntos de caracteristicas ORB
+- Puntos de características ORB
 
 # Uso del algoritmo:
 
-- Para probar le algoritmo realizado con un video propio, este debe ser copiado en la misma ruta en la que de descargó el repositorio.
+- Para probar le algoritmo realizado con un video propio, este debe ser copiado en la misma ruta en la que fue descargado el repositorio.
 - Abrir el notebook: Rotacion.ipynb.
 - En la funcion *extraer_fotogramas* cambiar *time_laps3.mp4* por el nombre del nuevo video.
 - Por ultimo se ejecuta cada celda del notebook. El video resultado sera guardado en la ruta del proyecto con el nombre de: *matches.mp4*.
