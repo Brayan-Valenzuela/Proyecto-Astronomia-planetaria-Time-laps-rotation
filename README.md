@@ -25,6 +25,13 @@ el video usado como prueba para este proyecto fue tomado de: https://www.youtube
 
 - Puntos de caracteristicas ORB
 
+# Uso del algoritmo:
+
+- Para probar le algoritmo realizado con un video propio, debe copiarlo en la misma ruta en la que descargo el proyecto.
+- Abrir el notebook: Rotacion.ipynb.
+- En la funcion *extraer_fotogramas* cambiar *time_laps3.mp4* por el nombre del nuevo video.
+- Por ultimo se ejecuta cada celda del notebook. El video resultado sera guardado en la ruta del proyecto con el nombre de: *matches.mp4*.
+
 # Referencias:
 
 - https://www.learnopencv.com/image-alignment-feature-based-using-opencv-c-python/
