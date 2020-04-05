@@ -1,7 +1,7 @@
 # Reconocimiento y reconstruccion de mapas de desgaste usando machine learning
 
 
-<img src="/portada.png" style="width:400px;">
+<img src="/portada.png" style="width:400px;"><center/>
 
 
 - Brayan Camilo Valenzuela Rincón
@@ -18,10 +18,6 @@ Este repositorio fue creado con el objetivo de hacer publico el código realizad
 # Data set:
 
 el video usado como prueba para este proyecto fue tomado de: https://www.youtube.com/watch?v=0ma0SNEAzes
-
-# Objetivos:
-
-- Realizar un reconocimiento de los diferentes regimenes de desgaste usando machine learning y tecnicas de vision por computador.
 
 # Modelo y metodos usados:
 
