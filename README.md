@@ -1,7 +1,7 @@
 # Reconocimiento y reconstruccion de mapas de desgaste usando machine learning
 
 
-<img src="/portada.png" style="width:400px;"><center/>
+<img src="/portada.png" style="width:400px;" class="center">
 
 
 - Brayan Camilo Valenzuela Rincón
