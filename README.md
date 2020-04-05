@@ -17,7 +17,7 @@ Este repositorio fue creado con el objetivo de hacer publico el código realizad
 
 # Data set:
 
-el video usado como prueba para este proyecto fue tomado de: https://www.youtube.com/watch?v=0ma0SNEAzes
+-El video usado como prueba para este proyecto fue tomado de: https://www.youtube.com/watch?v=0ma0SNEAzes
 
 # Modelo y metodos usados:
 
@@ -27,10 +27,11 @@ el video usado como prueba para este proyecto fue tomado de: https://www.youtube
 
 # Uso del algoritmo:
 
-- Para probar le algoritmo realizado con un video propio, debe copiarlo en la misma ruta en la que descargo el proyecto.
+- Para probar le algoritmo realizado con un video propio, este debe ser copiado en la misma ruta en la que de descargó el repositorio.
 - Abrir el notebook: Rotacion.ipynb.
 - En la funcion *extraer_fotogramas* cambiar *time_laps3.mp4* por el nombre del nuevo video.
 - Por ultimo se ejecuta cada celda del notebook. El video resultado sera guardado en la ruta del proyecto con el nombre de: *matches.mp4*.
+
 
 # Referencias:
 
